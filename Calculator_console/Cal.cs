@@ -8,6 +8,7 @@ namespace Calculator_console
         {
             double num1, num2, result = 0;
 
+
             Console.Write("Enter first number:");
             num1 = Convert.ToDouble(Console.ReadLine());
 
